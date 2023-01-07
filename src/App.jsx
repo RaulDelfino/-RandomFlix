@@ -23,8 +23,6 @@ function App() {
 
     if(containerfilmes === false){
       setContainerFilme(true)
-    }else{
-      setContainerFilme(false)
     }
     var index = Math.floor(Math.random() * 20)
 
