@@ -6,4 +6,4 @@
 
 Projeto criado em React, e utilizando a API: Themoviedb.
 
-!(src\assets\randomflix .jpg)
+![randomflix ](https://user-images.githubusercontent.com/98848458/211124133-d4cef386-4cbe-4f93-952d-3a685d5af1c9.jpg)
