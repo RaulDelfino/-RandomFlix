@@ -56,7 +56,7 @@ console.log(filme.backdrop_path)
   return (
     <div className='main'>
       <div className='header'>
-        <img src='../src/assets/shuffle.svg'/>
+        <img src='assets/shuffle.svg'/>
         <h1>Não sabe o que assistir?</h1>
       </div>
 
@@ -64,7 +64,7 @@ console.log(filme.backdrop_path)
 
         {containerfilmes ? <NovoFilme/> : null}    
 
-      <button onClick={onClick}><img src='../src/assets/shuffle.svg'></img>Encontrar filme</button>
+      <button onClick={onClick}><img src='assets/shuffle.svg'></img>Encontrar filme</button>
 
       <div className='footer'>
         <p>Clique em "Encontrar filme" que traremos informações <br/> de algum filme para você assistir hoje.</p>
